@@ -1,0 +1,228 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+cstdio
+-
+cstdlib
+-
+cstdarg
+-
+cstring
+-
+cmath
+-
+cfloat
+-
+climits
+-
+ctime
+-
+exception
+-
+algorithm
+-
+stdio.h
+-
+sys/types.h
+-
+sys/time.h
+-
+sys/stat.h
+-
+unistd.h
+-
+dirent.h
+-
+fnmatch.h
+-
+windows.h
+-
+shlobj.h
+-
+process.h
+-
+io.h
+-
+initializer_list
+-
+utility
+-
+X11/Xlib.h
+-
+X11/Xutil.h
+-
+X11/keysym.h
+-
+pthread.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+X11/extensions/XShm.h
+-
+X11/extensions/Xrandr.h
+-
+omp.h
+-
+cstddef
+-
+cv.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/cv.h
+highgui.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/highgui.h
+png.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/png.h
+jpeglib.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/jpeglib.h
+setjmp.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/setjmp.h
+tiffio.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/tiffio.h
+minc_io_simple_volume.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/minc_io_simple_volume.h
+minc_1_simple.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/minc_1_simple.h
+minc_1_simple_rw.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/minc_1_simple_rw.h
+zlib.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/zlib.h
+curl/curl.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/curl/curl.h
+Magick++.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/Magick++.h
+fftw3.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/fftw3.h
+Board.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/Board.h
+ImfRgbaFile.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImfRgbaFile.h
+ImfInputFile.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImfInputFile.h
+ImfChannelList.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImfChannelList.h
+ImfMatrixAttribute.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImfMatrixAttribute.h
+ImfArray.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImfArray.h
+tinyexr.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/tinyexr.h
+CImg.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+stdint.h
+-
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImageProcess.cpp
+ImageProcess.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImageProcess.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/ImageProcess.h
+CImg.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+queue
+-
+set
+-
+stdlib.h
+-
+time.h
+-
+transfer.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/transfer.h
+equalization.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/equalization.h
+cmath
+-
+iostream
+-
+map
+-
+iostream
+-
+cstring
+-
+vector
+-
+Projection.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/Projection.h
+vl/generic.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/generic.h
+vl/sift.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/sift.h
+vl/kdtree.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/kdtree.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/Projection.h
+CImg.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+math.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/math.h
+cstdio
+-
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/equalization.h
+iostream
+-
+cmath
+-
+time.h
+-
+CImg.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/transfer.h
+iostream
+-
+time.h
+-
+cmath
+-
+CImg.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/CImg.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/generic.h
+host.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/host.h
+random.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/random.h
+stdlib.h
+-
+stddef.h
+-
+time.h
+-
+assert.h
+-
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/host.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/kdtree.h
+generic.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/generic.h
+mathop.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/mathop.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/mathop.h
+generic.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/generic.h
+math.h
+-
+float.h
+-
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/random.h
+host.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/host.h
+
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/sift.h
+stdio.h
+-
+generic.h
+C:/Users/Chen Sihang/Desktop/cv/ex6/vl/generic.h
+

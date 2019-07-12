@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\panorama.dir/objects.a
+C:\nuwen\MinGW\bin\ar.exe cr CMakeFiles\panorama.dir/objects.a @CMakeFiles\panorama.dir\objects1.rsp
+C:\nuwen\MinGW\bin\g++.exe -lgdi32 -IC:\vlfeat-0.9.21-bin\vlfeat-0.9.21 -LC:\vlfeat-0.9.21-bin\vlfeat-0.9.21/bin/win64/  -g   -Wl,--whole-archive CMakeFiles\panorama.dir/objects.a -Wl,--no-whole-archive  -o bin\panorama.exe -Wl,--out-implib,lib\libpanorama.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\panorama.dir\linklibs.rsp
